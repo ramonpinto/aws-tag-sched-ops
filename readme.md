@@ -1,5 +1,4 @@
 # Start, Reboot, Stop and Back Up AWS Resources with Tags
-#teste
 
 ## Benefits
 
